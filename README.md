@@ -2,8 +2,8 @@
 
 Estimates complexity of given algorithm.
 
-Input
-Class containing 3 methods:
+Input:
+- Class containing 3 methods:
   - init_fun - things that must be done before the algrithm starts
   - fun - the algorithm of which complexity will be estimated
   - cleaner - things that must be done after the algorithm ends
